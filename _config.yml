@@ -1,13 +1,13 @@
 # Site
 name: Jonathan Kuhlman
 description: ....
-meta_description: ....e
+meta_description: ....
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
-google_analytics: UA-103662447-9
+email: 'airmanjk03@gmail.com'
+google_analytics: 
 disqus:
 sharethis:
 
