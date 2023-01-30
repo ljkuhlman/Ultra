@@ -1,7 +1,7 @@
 # Site
-name: John Doe
-description: Just another website
-meta_description: Just another website
+name: Jonathan Kuhlman
+description: ....
+meta_description: ....e
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
@@ -14,13 +14,13 @@ sharethis:
 # Authors
 authors:
   john:
-    name: john
-    display_name: John Doe
-    image: /assets/images/john.jpg
-    email: hello@john.doe
-    web: http://example.com
+    name: LJ
+    display_name: Jonathan Kuhlman
+    image: /assets/images/swissalps.jpg
+    email: airmanjk03@gmail.com
+    web: https://ljkuhlman.github.io/Ultra/
     twitter:
-    description: Hi, I am John Doe.
+    description: Hi, I am LJ.
 
 # Plugins
 plugins:
