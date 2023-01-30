@@ -13,12 +13,11 @@ sharethis:
 
 # Authors
 authors:
-  john:
     name: LJ
     display_name: Jonathan Kuhlman
     image: /assets/images/swissalps.jpg
     email: airmanjk03@gmail.com
-    web: https://ljkuhlman.github.io/Ultra/
+    web: https://ljkuhlman.github.io
     twitter:
     description: Hi, I am LJ.
 
@@ -49,7 +48,7 @@ twitter:
 
 facebook:
   app_id:
-  publisher: john.com
+  publisher: 
   admins:
 
 social:
