@@ -43,7 +43,7 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
+  username: 
   card: summary
 
 facebook:
@@ -52,7 +52,7 @@ facebook:
   admins:
 
 social:
-name: John Doe
+name: 
 links:
     - https://twitter.com/
     - https://www.facebook.com/
