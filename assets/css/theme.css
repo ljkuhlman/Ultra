@@ -61,7 +61,11 @@ section {
 section.featured-posts {
     margin-bottom: 30px;
 }
+section.strava {
+    height= 454px;
+    width: 300px;
 
+}
 section.recent-posts {
     margin-bottom: 0;
 }
