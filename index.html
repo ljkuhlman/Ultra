@@ -27,24 +27,27 @@ title: Home
             <div class="section-title">
                 <h2><span>Featured Blog!</span></h2>
             </div>
-            <div class="row listfeaturedtag">
-                {% for post in site.posts %}
-                {% if post.featured == true %}
-                {% include featuredbox.html %}
-                {% endif %}
-                {% endfor %}
-            </div>
-        </section>
-        <!-- Image Column
-        ================================================== -->
-        <section class="strava-column">
-            <div class="section-title">
-                <h2><span>Strava</span></h2>
-            </div>
             <div class="row">
+                <div class="col-sm-6">
+                    <div class="featured-posts-container">
+                      <div class="row listfeaturedtag">
+                    {% for post in site.posts %}
+                    {% if post.featured == true %}
+                    {% include featuredbox.html %}
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="image-column">
+                <!-- Add your image code here -->
+                <h2><span>Strava</span></h2>
                 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/24527367/latest-rides/c01b7354d1ba31b3d85004a05fc345c0cfd08139'></iframe>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 
         <!-- Posts Index
         ================================================== -->
