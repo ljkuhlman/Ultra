@@ -188,9 +188,9 @@ section.recent-posts {
 
 @media (min-width: 576px) {
     .card-columns.listfeaturedtag {
-        -webkit-column-count: 3;
-        -moz-column-count: 3;
-        column-count: 3;
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
     }
 }
 
@@ -205,7 +205,7 @@ section.recent-posts {
 
 .listfeaturedtag .card {
     border-radius: 2px;
-    height: 260px;
+    height: 454px;
     padding-left: 0;
     margin-bottom: 15px;
 }
