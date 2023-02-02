@@ -48,13 +48,6 @@ pre {
     box-shadow: none;
 }
 
-.main-content {
-    padding: 9rem 0;
-    margin-top: -57px;
-    margin-bottom: 3.5rem;
-    z-index: 1;
-    position: relative;
-}
 
 .site-content {
     padding-top: 3.5rem;
