@@ -1085,6 +1085,9 @@ iframe {
 
 @media (max-width: 1199px) {
     .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 16px;
         width: 100%;
         max-width: 100%;
         padding-right: 15px;
