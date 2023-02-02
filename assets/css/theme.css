@@ -49,7 +49,11 @@ pre {
 }
 
 .main-content {
-    margin-top: 0;
+    padding: 9rem 0;
+    margin-top: -57px;
+    margin-bottom: 3.5rem;
+    z-index: 1;
+    position: relative;
 }
 
 .site-content {
