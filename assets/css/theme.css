@@ -48,6 +48,11 @@ pre {
     box-shadow: none;
 }
 
+.main-content {
+    padding-top: 3.5rem;
+    margin-top: 0;
+}
+
 .site-content {
     padding-top: 3.5rem;
     margin-top: 57px;
